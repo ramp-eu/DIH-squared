@@ -1,4 +1,4 @@
-# DIH^2 Components
+# DIH<sup>2</sup> Components
 
 [![License: MIT](https://img.shields.io/github/license/ramp-eu/TTE.project1.svg)](https://opensource.org/licenses/MIT)
 <br/>
