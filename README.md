@@ -1,96 +1,40 @@
-# <TITLE>
+# DIH^2 Components
 
 [![License: MIT](https://img.shields.io/github/license/ramp-eu/TTE.project1.svg)](https://opensource.org/licenses/MIT)
-[![Docker badge](https://img.shields.io/docker/pulls/ramp-eu/TTE.project1.svg)](https://hub.docker.com/r/<org>/<repo>/)
 <br/>
-[![Documentation Status](https://readthedocs.org/projects/tte-project1/badge/?version=latest)](https://tte-project1.readthedocs.io/en/latest/?badge=latest)
-[![CI](https://github.com/ramp-eu/TTE.project1/workflows/CI/badge.svg)](https://github.com/ramp-eu/TTE.project1/actions?query=workflow%3ACI)
-[![Coverage Status](https://coveralls.io/repos/github/ramp-eu/TTE.project1/badge.svg?branch=master)](https://coveralls.io/github/ramp-eu/TTE.project1?branch=master)
-[![Codacy grade](https://img.shields.io/codacy/grade/99310c5c4332439197633912a99d2e3c)](https://app.codacy.com/manual/jason-fox/TTE.project1)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4187/badge)](https://bestpractices.coreinfrastructure.org/projects/4187)
-
-```text
-
-The Badges above demonstrate testing, code coverage
-and commitment to coding standards (since the code is linted on commit).
-
-The links need to be amended to point to the correct repo.
-
-Sign up for:
-
-- CI Test system - e.g. GitHub Actions, Travis
-- A Documentation website - e.g. ReadTheDocs
-- Static Code Analysis tool - e.g. Codacy
-- CII Best Practices https://bestpractices.coreinfrastructure.org
-
-Only CII Best Practices (and its badge) is mandatory. Any equivalent public automated tools for the other three may be used.
-
-Note that the CII Best Practices questionaire will request evidence of tooling used.
-
-```
 
 ```text
 One or two sentence preamble describing the element
 ```
 
 ## Contents
+ARP: [Trajectory Generator](https://github.com/visionequipment/arp "ARP ROSE-AP")
 
-- [<TITLE>](#title)
-  - [Contents](#contents)
-  - [Background](#background)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [API](#api)
-  - [Testing](#testing)
-  - [License](#license)
+Cobitt: [Web App](https://github.com/iasonasiasonos/COBITT "Cobitt ROSE-AP 1"), [ROS 2 IoT Agent](https://github.com/iasonasiasonos/iot_agent_ros2 "Cobitt ROSE-AP 2")
 
-## Background
+D-Mould: [Multi-robot DCS](https://github.com/proaimslovenia/D-Mould "D-Mould ROSE-AP")
 
-```text
-Background information and links to relevant terms
-```
+FlexMill: [Overview](https://github.com/flexmill/Start-here---Overview "FlexMill Overview") + [AMR Control](https://github.com/flexmill/AMRControl "FlexMill ROSE-AP 1"), [CAD/CAM Automatization](https://github.com/flexmill/CAD_CAM_Automatization "FlexMill ROSE-AP 2"), [Machining Centre Server](https://github.com/flexmill/fiware_connector_machiningcentre_tools "FlexMill ROSE-AP 3"), [Broker Console](https://github.com/flexmill/Fiware-databroker-console "FlexMill Tool")
 
-## Install
+Gridiron: [AI Backend + Microscope and Pipette Robot Servers](https://github.com/AIRInstitute/Gridiron "Gridiron ROSE-AP")
 
-```text
-How to install the component
+Innowest: [Multi-process data broker](https://github.com/manioanadrian/Inno-West "Innowest ROSE-AP")
 
-Information about how to install the <Name of component> can be found at the corresponding section of the
-[Installation & Administration Guide](docs/installationguide.md).
+Mediscara: [Manager App](https://github.com/ppuska/mediscara.manager "Mediscara ROSE-AP 1"), [Master Control Unit](https://github.com/ppuska/mediscara.mcu  "Mediscara ROSE-AP 2"), [PDF Generator](https://github.com/ppuska/pdf-generator "Mediscara ROSE-AP 3") 
 
-A `Dockerfile` is also available for your use - further information can be found [here](docker/README.md)
+Oscar: [Interactive GUI for Automated Assembly](https://github.com/flexsight/Oscar "Oscar ROSE-AP")
 
-```
+PoRoLog: [Noos-Open](https://github.com/ortelio/Noos-Open "PoRoLog ROSE-AP")
 
-## Usage
+Prebots: [Model Builder + Program Manager](https://github.com/canonical-robots/prebot-rose-ap "Prebots ROSE-AP")
 
-```text
-How to use the component
+RAM ASP: [3D Printers Central Control Unit + Printer Agents](https://github.com/3DPRN/RAMASP "RAM ASP ROSE-AP")
 
-Information about how to use the <Name of component> can be found in the [User & Programmers Manual](docs/usermanual.md).
+Robo4Toys: [MOMAMS (Manufacturing Oee + Mes Alert Management System](https://github.com/aviharos/momams "Robo4Toys ROSE-AP")
 
-The following features are listed as [deprecated](docs/deprecated.md).
-```
+Robosonic: [Robot Program Handler](https://github.com/dih2-rowa/programhandler "Robosonic ROSE-AP 1"), [Information Server](https://github.com/dih2-rowa/informationserver "Robosonic ROSE-AP 2"), [Production Simulator](https://github.com/dih2-rowa/productionSimulation "Robosonic ROSE-AP 3")
 
-## API
-
-```text
-Definition of the API interface:
-
-Information about the API of  the <Name of component> can be found in the [API documentation](docs/api.md).
-
-```
-
-## Testing
-
-```text
-How to test the component
-
-For performing a basic end-to-end test, you have to follow the step below. A detailed description about how to run tests can be found [here].
-
-> npm test
-
-```
+Romantig: [OEE Calculator](https://github.com/claret-srl/ROMANTIG/tree/master "Romantig ROSE-AP")
 
 ## License
 
