@@ -3,9 +3,11 @@
 [![License: MIT](https://img.shields.io/github/license/ramp-eu/TTE.project1.svg)](https://opensource.org/licenses/MIT)
 <br/>
 
-```text
-One or two sentence preamble describing the element
-```
+The DIH<sup>2</sup> project implemented a Technology Transfer Program in which technology providers developed robotics-based solutions to increase the agility of several manufacturing SMEs across Europe. The table below is a summary of the projects carried out in such Technology Transfer Program. For each project, the following information is attached:
+
+* A short text description of each project 
+* An introductory video on the overall project concept demonstrated in the manufacturing SME
+* Convenient links to the open software components (ROSE-APs) that each of these projects has contributed to the DIH<sup>2</sup> catalog 
 
 ## Contents
 | Project | Short Description | ROSE-AP Repositories |
