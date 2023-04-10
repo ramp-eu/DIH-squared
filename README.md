@@ -8,9 +8,9 @@ One or two sentence preamble describing the element
 ```
 
 ## Contents
-| Project | Description | Repositories |
-|---------|-------------|--------------|
-| ARP | add your description here | [Trajectory Generator](https://github.com/visionequipment/arp "ARP ROSE-AP") |
+| Project | Short Description | ROSE-AP Repositories |
+|---------|-------------------|----------------------|
+| ARP | The proposed solution aims to achieve high flexibility for automating the processing of flat workpieces. In order to achieve this goal, the system has been designed to manage different parameters of the sanding process, which are not tied to a particular model or brand. Workers will be able to choose the correct combination of parameters for a certain type of material in relation to the desired finish and, based on that, the system will automatically configure itself <br/> [Solution](https://github.com/visionequipment/arp "ARP ROSE-AP") | [Trajectory Generator](https://github.com/visionequipment/arp "ARP ROSE-AP") |
 | Cobitt | add your description here | [Web App](https://github.com/iasonasiasonos/COBITT "Cobitt ROSE-AP 1"), [ROS 2 IoT Agent](https://github.com/iasonasiasonos/iot_agent_ros2 "Cobitt ROSE-AP 2") |
 | D-Mould | add your description here | [Multi-robot DCS](https://github.com/proaimslovenia/D-Mould "D-Mould ROSE-AP") |
 | FlexMill | add your description here | [Overview](https://github.com/flexmill/Start-here---Overview "FlexMill Overview") + [AMR Control](https://github.com/flexmill/AMRControl "FlexMill ROSE-AP 1"), [CAD/CAM Automatization](https://github.com/flexmill/CAD_CAM_Automatization "FlexMill ROSE-AP 2"), [Machining Centre Server](https://github.com/flexmill/fiware_connector_machiningcentre_tools "FlexMill ROSE-AP 3"), [Broker Console](https://github.com/flexmill/Fiware-databroker-console "FlexMill Tool") |
